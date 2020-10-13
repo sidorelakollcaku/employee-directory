@@ -82,6 +82,7 @@ return b[heading]-  a[heading];
             filteredUsers: results.data.results
           });
         });
+    // eslint-disable-next-line 
       }, []);
     
       return (
