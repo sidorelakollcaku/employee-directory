@@ -17,15 +17,14 @@ const DataTable = () => {
         <thead>
           <tr>
             {context.developerState.headings.map(({ name, width }) => {
-              return (
+              return(
                 <th
                   className="col"
                   key={name}
                   style={{ width }}
                   onClick={() => {
-                    // context.handleSort(name.toLowerCase());
-                    context.handleSort(name);
-                  }}
+                    context.handleSort(name.toLowerCase());
+                   }}
                 >
                   {name}
                   <span className="pointer"></span>
