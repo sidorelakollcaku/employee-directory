@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sidorelakollcaku/employee-directory/static/css/main.730cc9ac.chunk.css",
+    "main.js": "/sidorelakollcaku/employee-directory/static/js/main.1f38c4be.chunk.js",
+    "main.js.map": "/sidorelakollcaku/employee-directory/static/js/main.1f38c4be.chunk.js.map",
+    "runtime-main.js": "/sidorelakollcaku/employee-directory/static/js/runtime-main.15242f37.js",
+    "runtime-main.js.map": "/sidorelakollcaku/employee-directory/static/js/runtime-main.15242f37.js.map",
+    "static/js/2.b3c947f5.chunk.js": "/sidorelakollcaku/employee-directory/static/js/2.b3c947f5.chunk.js",
+    "static/js/2.b3c947f5.chunk.js.map": "/sidorelakollcaku/employee-directory/static/js/2.b3c947f5.chunk.js.map",
+    "index.html": "/sidorelakollcaku/employee-directory/index.html",
+    "precache-manifest.d250cddb609a8eb78ec0ede1e5e710c7.js": "/sidorelakollcaku/employee-directory/precache-manifest.d250cddb609a8eb78ec0ede1e5e710c7.js",
+    "service-worker.js": "/sidorelakollcaku/employee-directory/service-worker.js",
+    "static/css/main.730cc9ac.chunk.css.map": "/sidorelakollcaku/employee-directory/static/css/main.730cc9ac.chunk.css.map",
+    "static/js/2.b3c947f5.chunk.js.LICENSE.txt": "/sidorelakollcaku/employee-directory/static/js/2.b3c947f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15242f37.js",
+    "static/js/2.b3c947f5.chunk.js",
+    "static/css/main.730cc9ac.chunk.css",
+    "static/js/main.1f38c4be.chunk.js"
+  ]
+}
